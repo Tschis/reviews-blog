@@ -1,7 +1,4 @@
 ---
-title: Welcome - TxReviews Blog
-author: Tschis
-description: desc value test
+title: Welcome to my blog
 ---
 
-Reviews on random topics to not forget some details on my impressions over time.
