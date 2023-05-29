@@ -1,0 +1,16 @@
+---
+layout: base
+---
+<div class="post">
+  <h1>Posts with tag: {{ page.tag }}</h1>
+  <ul>
+    {% for post in site.tags[page.tag] %}
+    <li><a href="/reviews-blog/{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+      {{ post.description }}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+<hr>
+
+{% include tagcloud.html %}
