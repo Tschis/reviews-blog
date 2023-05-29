@@ -1,0 +1,20 @@
+title: TxReviews
+author:
+  name: Tschis
+description: >
+  Reviews on random topics to not forget some details on my impressions over time.
+
+minima:
+  date_format: "%b %-d, %Y"
+  social_links:
+    - { platform: github, user_url: "https://github.com/tschis" }
+  skin: dark
+
+# show_excerpts: false # set to true to show excerpts on the homepage
+
+# Build settings
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
