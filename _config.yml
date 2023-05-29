@@ -10,6 +10,8 @@ minima:
     - { platform: github, user_url: "https://github.com/tschis" }
   skin: dark
 
+show_excerpts: true
+
 # Build settings
 remote_theme: jekyll/minima
 plugins:
