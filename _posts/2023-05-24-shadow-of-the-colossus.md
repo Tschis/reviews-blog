@@ -44,6 +44,33 @@ more than half were just the same fight with different ways of getting to the vu
 A few, as noted below in the difficulty section, actually challenged me, but in ways that I felt didn't feel like it
 was well explored.
 
+#### Characters & Story
+
+Wander is our main character and a quiet type. No words are spoken, except interjections and calls for his horse. There
+was no explanation given to what was happening, or why, or how. You can infer what is going on, and hope that what you
+are doing will be rewarding in the end, both for you and Wander.
+
+It was not clear to me, at all, that Wander was getting progressively more "infected", or "affected", by the dark
+spirits. While it was obvious that something was happening due to the cinematic shown after each fight, I personally
+did not notice any changes in the character itself while progressing through the game.
+
+The ending was not completely surprising, although it felt like a very chaotic and unnecessary twist of events. The
+group of riders arrives just in time after finishing the last fight, but are neither capable of fixing anything, nor
+from warning us of anything either. They arrive too late and can not influence what has happened. From my perspective,
+they only appear to give more context to the world and to what Wander has done.
+
+The group tries to fight Wander in the demon form, and utterly fails. In fact, I do not think I did anything in that
+fight and the story progressed just the same. It made for a very bad feeling that it was completely unnecessary. Or, at
+least, it was unnecessary to have me suffering through that camera work and controls just to not achieve anything. It
+could have been a cinematic.
+
+I felt the ending was bad and confusing. In fact, I felt bad for both Wander and the girl. She now has to live by
+herself in a vast area that has no connection to the outside world, while dealing with a baby and having no idea what
+just happened since there is nobody to explain it to her.
+
+In fact, I completely missed the baby part when finishing the game, since it only appears after the credits roll out,
+and I was kind of disappointed with the end, so I just closed the game before watching everything.
+
 #### Difficulty
 
 The game did not feel hard at any point in the Normal difficulty. As the battle mechanics available to Wander are very
@@ -66,7 +93,9 @@ not seem to mind the big burning pyres at all, even though the hint said it was 
 off.
 * Colossus XV: even with the hints, it was still confusing and not intuitive for me. The hint only told you to get to a
 higher ground, but I spent a lot of time running around and trying to grab into walls and climb on the boss to jump away
-before, by pure luck, noticing the boss destroyed part of the building, making me able to reach top floors.
+before, by pure luck, noticing the boss destroyed part of the building, making me able to reach top floors. It also did 
+not help that the destroyed building parts would "regenerate" after a while, so if you were not paying attention you 
+could easily miss that anything had changed at all.
 
 For the final boss, colossus XVI, most of the challenge was testing my patience with the camera. The camera was the real
 final boss for me, and I seriously got close to quitting at that point. But overall, I liked the fight and thought it
@@ -83,33 +112,6 @@ purpose well enough.
 The music had no score that would be remarkable for me in the long run. However, it felt organic and intensified each
 encounter. You could tell that it made sense and was intrinsically built into the game in a way that made it better.
 It just was not the type of music I would consider hearing on a playlist.
-
-#### Characters & Story
-
-Wander is our main character and a quiet type. No words are spoken, except interjections and calls for his horse. There
-was no explanation given to what was happening, or why, or how. You can infer what is going on, and hope that what you
-are doing will be rewarding in the end, both for you and Wander.
-
-It was not clear to me, at all, that Wander was getting progressively more "infected", or "affected", by the dark 
-spirits. While it was obvious that something was happening due to the cinematic shown after each fight, I personally
-did not notice any changes in the character itself while progressing through the game.
-
-The ending was not completely surprising, although it felt like a very chaotic and unnecessary twist of events. The
-group of riders arrives just in time after finishing the last fight, but are neither capable of fixing anything, nor
-from warning us of anything either. They arrive too late and can not influence what has happened. From my perspective,
-they only appear to give more context to the world and to what Wander has done.
-
-The group tries to fight Wander in the demon form, and utterly fails. In fact, I do not think I did anything in that
-fight and the story progressed just the same. It made for a very bad feeling that it was completely unnecessary. Or, at
-least, it was unnecessary to have me suffering through that camera work and controls just to not achieve anything. It 
-could have been a cinematic.
-
-I felt the ending was bad and confusing. In fact, I felt bad for both Wander and the girl. She now has to live by 
-herself in a vast area that has no connection to the outside world, while dealing with a baby and having no idea what
-just happened since there is nobody to explain it to her. 
-
-In fact, I completely missed the baby part when finishing the game, since it only appears after the credits roll out, 
-and I was kind of disappointed with the end, so I just closed the game before watching everything.
 
 ### Pros
 
