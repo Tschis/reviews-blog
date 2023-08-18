@@ -2,7 +2,7 @@
 title: Shadow of the Colossus (2018)
 date: 2023-05-24
 layout: post
-tags: shadow-of-the-colossus sony playstation-5 action adventure team-ico bluepoint 
+tags: shadow-of-the-colossus sony playstation-5 action adventure team-ico bluepoint single-player
 ---
 
 Simple mechanics, straightforward goals, diverse bosses, beautiful landscapes. Very annoying camera control, repetitive
