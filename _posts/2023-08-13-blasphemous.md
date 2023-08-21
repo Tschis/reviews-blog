@@ -92,17 +92,18 @@ them.
 
 There were multiple places where I went through an internal fight of trying to reason if secret parts of the map were 
 not accessible yet due to my lack of itemization/relic/skills, or if I was just missing the hidden triggers to open a 
-path to them. Other than this, bosses were the only part bringing in a relative spike in difficulty. Other than 2 or 3
-bosses, though, most others I defeated in my first try, so the challenge was not very high throughout the game.
+path to them. In general, bosses were the main cause of a relative spike in difficulty. Although, even then, probably 
+only 2 or 3 bosses took multiple tries, while the rest I defeated in my first try, so the challenge was not very high 
+throughout the whole game.
 
 #### Graphics
 
 As a lover of pixel art, the game had amazing landscapes and scenery, as well as gross but intriguing creatures with
 very gruesome "fatality" like abilities to get rid of them, which made it quite fun. Scenery at dusk on top of the 
-cathedral was very beautiful, as well as some snowy mountains.
+cathedral was very beautiful, as well as some snowy mountains. The animation as a whole was very good.
 
 The game also had different areas with a range of "themes", like a library, a sewer, some underground mines, the 
-cathedral, etc. Each had distinct visuals, all well-made. 
+cathedral, etc. Each had distinct visuals, all very beautiful in their own ways. 
 
 #### Menu & Map
 
