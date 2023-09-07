@@ -13,7 +13,7 @@ interesting story that even got my wife's attention and curiosity, bringing her 
 [Wikipedia summary](https://en.wikipedia.org/wiki/Children_of_Morta):
 
 Players take on the role of members of the Bergson family, with more members being unlocked as progress is made through
-the game. Each family member has its own play-style and gameplay mechanics and levels up as it is played, granting
+the game. Each family member has its own playstyle and gameplay mechanics and levels up as it is played, granting
 improvements to themselves and the family as a whole.
 
 The players must traverse a number of procedurally generated dungeons within the caverns of Mount Morta to clear them of
@@ -28,7 +28,7 @@ various enemies and bosses.
 
 ### Comments
 
-The game started out as quite fun for me, the initial character, Jonh, was interesting and I liked the way it did a 
+The game started out as quite fun for me, the initial character, John, was interesting and I liked the way it did a 
 knock back on enemies on attack. However, soon it became clear that any enemies that did not get knocked back were 
 troublesome to handle. After a while, I unlocked the second member of the family, Linda, and basically did not even try 
 as I preferred the melee style. It soon became clear, though, that continuing to focus on a single character would not 
@@ -74,33 +74,33 @@ really keeping us on the hook for more.
 Playable characters include:
 
 * John, the Warrior
-    * Was fun at the beginning, but I could not figure out how to properly use his shield as much as wanted to. With the
-      lack of sustain, I just thought it was a bit useless
+  * Was fun at the beginning, but I could not figure out how to properly use his shield as much as wanted to. With the
+    lack of sustain, I just thought it was a bit useless
 * Linda, the Archer
-    * Was fun all around. The beginning was a bit hard when running out of stamina to walk and shoot, but soon this became
-      less problematic, and so she was a very good DPS, that made a good combo with Mark. My wife loved her until unlocking
-      the firecracker Lucy
+  * Was fun all around. The beginning was a bit hard when running out of stamina to walk and shoot, but soon this 
+    became less problematic, and so she was a very good DPS, that made a good combo with Mark. My wife loved her until 
+    unlocking the firecracker Lucy
 * Kevin, the Assassin
-    * The second melee character, was a welcome change in pace because I was a bit annoyed with John. Kevin was fast and
-      that fit my play style better. However, anything not getting staggered by his attacks would cause enough damage to
-      make sustainability a problem again
+  * The second melee character, was a welcome change in pace because I was a bit annoyed with John. Kevin was fast and
+    that fit my playstyle better. However, anything not getting staggered by his attacks would cause enough damage to
+    make sustainability a problem again
 * Mark, the Monk
-    * This quickly became my favourite character, as I found his skills were more fun and useful than the other melees,
-      and the play-style also matched mine. Additionally, by being able to pull a lot of enemies together, it made a very
-      good combo with Linda, and that's where our play-through started to shine as my wife joined in, and we made a goo duo.
+  * This quickly became my favourite character, as I found his skills were more fun and useful than the other melees,
+    and the playstyle also matched mine. Additionally, by being able to pull a lot of enemies together, it made a very
+    good combo with Linda, and that is where our play-through started to shine as my wife joined in, making a good duo.
 * Lucy, the Pyromancer
-    * This little firecracker got our attention since before she was available, through the story that showed her evolving
-      and learning to dominate her skills. When she was made available, my wife jumped in and never let go. She only
-      switched away when fatigue would settle in too much
+  * This little firecracker got our attention since before she was available, through the story that showed her evolving
+    and learning to dominate her skills. When she was made available, my wife jumped in and never let go. She only
+    switched away when fatigue would settle in too much
 * Joey, the Brawler
-    * My least favourite melee character. Too slow for my play-style, and at the beginning his hits were as weak as any
-      of the other leveled up characters. So I disliked him from the get go as I felt it was useless to play with him when
-      others dealt more damage. Turns out it was quite necessary as his hammer was very useful for the later maps, but still
-      did not enjoy the play-style.
+  * My least favourite melee character. Too slow for my playstyle, and at the beginning his hits were as weak as any
+    of the other leveled up characters. So I disliked him from the get go as I felt it was useless to play with him when
+    others dealt more damage. Turns out it was quite necessary as his hammer was very useful for the later maps, but 
+    still did not enjoy the playstyle.
 * Apan, the Healer
-    * Our least favourite and played character. We could not see any clear benefit from this "healer", sustain was not
-      obviously/actively increased in any direct way (like through spells or abilities), so we found her "class" to be
-      "wrongly advertised". Nevertheless, she increased passive healing, so we just leveled her enough to get some bonuses
+  * Our least favourite and played character. We could not see any clear benefit from this "healer", sustain was not
+    obviously/actively increased in any direct way (like through spells or abilities), so we found her "class" to be
+    "wrongly advertised". Nevertheless, she increased passive healing, so we just leveled her enough to get some bonuses
 
 #### Difficulty
 
@@ -150,7 +150,7 @@ developed.
 
 - Beautiful "cinematics"
 - Beautiful map areas
-- Some fun characters to play with, covering different play-styles
+- Some fun characters to play with, covering different playstyles
 - Well-made animations for spells and combat in general
 - Nice story and its development, kept me coming back and hooked my wife from a distance
 
