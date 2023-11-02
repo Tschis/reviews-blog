@@ -8,7 +8,7 @@ tags: shadow-of-the-colossus sony playstation-5 action adventure team-ico bluepo
 Simple mechanics, straightforward goals, diverse bosses, beautiful landscapes. Very annoying camera control, repetitive
 strategies, uninspiring ending.
 
-![](https://raw.githubusercontent.com/Tschis/reviews-blog/main/assets/covers/shadow-of-the-colossus-2018-cover.png)
+![](https://raw.githubusercontent.com/Tschis/reviews-blog/main/assets/covers/shadow-of-the-colossus-2018.png)
 
 [Wikipedia summary](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus):
 

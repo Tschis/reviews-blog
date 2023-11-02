@@ -8,7 +8,7 @@ tags: children-of-morta sony playstation-5 action hack-and-slash roguelite dead-
 Amazing animations, mixed pixel-art style, simple gameplay loop, slightly repetitive. Children of Morta has an
 interesting story that even got my wife's attention and curiosity, bringing her for some fun in a couch co-op style.
 
-![](https://raw.githubusercontent.com/Tschis/reviews-blog/main/assets/covers/children-of-morta-2019-cover.jpeg)
+![](https://raw.githubusercontent.com/Tschis/reviews-blog/main/assets/covers/children-of-morta-2019.jpeg)
 
 [Wikipedia summary](https://en.wikipedia.org/wiki/Children_of_Morta):
 

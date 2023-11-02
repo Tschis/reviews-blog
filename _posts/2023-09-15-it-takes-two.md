@@ -8,7 +8,7 @@ tags: it-takes-two sony playstation-5 electronic-arts hazelight-studios action a
 An extremely fun game, filled with emotions and chaotic unpredictable scenarios. It Takes Two caught me completely by 
 surprise with the amount of unexpected turn of events and different areas / mechanics it threw me and my wife into.
 
-![](https://raw.githubusercontent.com/Tschis/reviews-blog/main/assets/covers/it-takes-two-2021-cover.png)
+![](https://raw.githubusercontent.com/Tschis/reviews-blog/main/assets/covers/it-takes-two-2021.png)
 
 [Wikipedia summary](https://en.wikipedia.org/wiki/It_Takes_Two_(video_game)):
 

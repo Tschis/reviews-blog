@@ -7,7 +7,7 @@ tags: blasphemous sony playstation-5 metroidvania action adventure the-game-kitc
 
 Beautiful pixel-art, fun metroidvania. Simple mechanics, very confusing lore. A fun time killer. 
 
-![](https://raw.githubusercontent.com/Tschis/reviews-blog/main/assets/covers/blasphemous-2019-cover.jpg)
+![](https://raw.githubusercontent.com/Tschis/reviews-blog/main/assets/covers/blasphemous-2019.jpg)
 
 [Wikipedia summary](https://en.wikipedia.org/wiki/Blasphemous_(video_game)):
 
