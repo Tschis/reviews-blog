@@ -8,7 +8,7 @@ tags: bloodstained-ritual-of-the-night sony playstation-5 koji-igarashi metroidv
 Underwhelming, but okay game, with a lot of map to explore and different skills to spice up gameplay. Bloodstained is 
 not the spiritual successor to Symphony of the Night I hoped it to be, but I can see it working for a lot of people. 
 
-![](https://raw.githubusercontent.com/Tschis/reviews-blog/main/assets/covers/bloodstained-ritual-of-the-night-2019.png)
+![](https://raw.githubusercontent.com/Tschis/reviews-blog/main/assets/covers/bloodstained-ritual-of-the-night-2019.jpeg)
 
 [Wikipedia summary](https://en.wikipedia.org/wiki/Bloodstained:_Ritual_of_the_Night):
 
