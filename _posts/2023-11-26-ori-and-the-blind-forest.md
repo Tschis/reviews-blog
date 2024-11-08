@@ -1,5 +1,5 @@
 ---
-title: Ori and the Blind Forest
+title: Ori and the Blind Forest (2015)
 date: 2023-11-26
 layout: post
 tags: ori-and-the-blind-forest steam pc platform single-player metroidvania moon-studios microsoft-studios
