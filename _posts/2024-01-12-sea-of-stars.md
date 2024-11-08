@@ -1,5 +1,5 @@
 ---
-title: Sea of Stars
+title: Sea of Stars (2023)
 date: 2024-01-12
 layout: post
 tags: sea-of-stars jrpg single-player playstation-5 sabotage-studio

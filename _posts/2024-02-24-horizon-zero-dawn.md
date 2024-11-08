@@ -1,5 +1,5 @@
 ---
-title: "Horizon Zero Dawn"
+title: Horizon Zero Dawn (2017)
 date: 2024-02-24
 layout: post
 tags: horizon-zero-dawn action rpg single-player playstation-5 guerrilla-games sony

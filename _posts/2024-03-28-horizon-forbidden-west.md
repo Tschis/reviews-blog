@@ -1,5 +1,5 @@
 ---
-title: "Horizon Forbidden West"
+title: Horizon Forbidden West (2022)
 date: 2024-03-28
 layout: post
 tags: horizon-forbidden-west action rpg single-player playstation-5 guerrilla-games sony
@@ -12,6 +12,11 @@ easily play for a 100+ hours.
 ![](https://raw.githubusercontent.com/Tschis/reviews-blog/main/assets/covers/horizon-forbidden-west-2022.jpg)
 
 [Wikipedia summary](https://en.wikipedia.org/wiki/Horizon_Forbidden_West):
+
+Horizon Forbidden West is a 2022 action role-playing game developed by Guerrilla Games and published by Sony Interactive 
+Entertainment. The game is set in a post-apocalyptic version of the Western United States, recovering from the aftermath 
+of an extinction event caused by a rogue robot swarm. The player, assuming control of Aloy, must venture into the 
+Forbidden West to find the source of a mysterious plague that kills all it infects.
 
 ## Review
 

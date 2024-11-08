@@ -1,5 +1,5 @@
 ---
-title: Bloodstained - Ritual of the Night
+title: Bloodstained - Ritual of the Night (2019)
 date: 2023-11-01
 layout: post
 tags: bloodstained-ritual-of-the-night sony playstation-5 koji-igarashi metroidvania single-player
@@ -12,8 +12,8 @@ not the spiritual successor to Symphony of the Night I hoped it to be, but I can
 
 [Wikipedia summary](https://en.wikipedia.org/wiki/Bloodstained:_Ritual_of_the_Night):
 
-Bloodstained: Ritual of the Night is a Metroidvania-styled video game whose development was led by former Castlevania 
-series producer, Koji Igarashi, and is considered a spiritual successor to the series. 
+Bloodstained: Ritual of the Night is a 2019 Metroidvania-styled video game whose development was led by former 
+Castlevania series producer, Koji Igarashi, and is considered a spiritual successor to the series. 
 
 ## Review
 
